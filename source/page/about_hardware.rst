@@ -11,7 +11,7 @@ About patin hardware
  flrobotics
 
 ・hostname
- flrobotics.local
+ flrobotics
 
 ======================
 2. pit側
@@ -20,7 +20,7 @@ About patin hardware
  pi
 
 ・hostname
- raspberrypi.local
+ raspberrypi
 
 .. note::
  sshパスワードは聞いてください

@@ -4,11 +4,11 @@ How to install ros package
    :maxdepth: 2
    :caption: Contents:
 
-1. ROSパッケージのリポジトリをクローンする
+1. ROSパッケージをcatkin_wsにクローンする
 ________________________________________________
  ``$git clone https://gitlab.com/trcp/trcp_patin.git``
 
-2. リポジトリに移動する
+2. クローンしたrosパッケージに移動する
 --------
  ``$cd trcp_patin``
 

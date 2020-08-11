@@ -23,6 +23,6 @@ this documantation include how to use patin and ros pkg
    /page/how_to_install
    /page/about_hardware
    /page/how_to_bringup
-   /page/how_to_use_joystick
+   .. /page/how_to_use_joystick
    /page/how_to_make_map
 

@@ -27,7 +27,7 @@ How to bring up patin
 
  以下のノードを起動している
 
-  上記のノード+
+  minimal launchで起動しているノード+
   
   navigation
   
