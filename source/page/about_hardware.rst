@@ -32,7 +32,7 @@ About patin hardware
 #. pitにsshでログインする
 #. ホームにあるch_on.shを実行する
  ``$./ch_on.sh``
-4. ホームにあるina226.cgiで監視する
+4. ホームにあるwatch.cgiで監視する
    
    ``$ ./watch.cgi``
    
