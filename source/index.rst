@@ -13,7 +13,7 @@ patin is the robot made by flower robotics
    
 `<http://www.flower-robotics.com>`_
 
-this documantation show how to use patin and ros pkg
+this documantation show how to use patin with ros and ros pkg
 
 .. toctree::
    :maxdepth: 2
