@@ -34,9 +34,9 @@ About patin hardware
  ``$./ch_on.sh``
 4. ホームにあるina226.cgiで監視する
    
-   ``$ ./ina226.cgi``
+   ``$ ./watch.cgi``
    
    連続的にチェックするなら
    
-   ``$ watch ./ina226.cgi``
+   ``$ watch ./watch.cgi``
 
